@@ -26,3 +26,13 @@ Este proyecto es una **tarjeta de presentación web** sencilla y elegante, hecha
 ├── index.html
 └── README.md
 ```
+
+## 🌐 Ver página publicada
+
+Podés ver el sitio en funcionamiento en el siguiente enlace:
+
+👉 [Ver La Cabra & Sazón en GitHub Pages](https://facuuurz.github.io/Tarjeta-de-Presentacion/)
+
+## ✍️ Autor
+
+**Facundo Thomas Ramirez**
