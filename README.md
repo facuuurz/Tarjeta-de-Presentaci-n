@@ -31,7 +31,7 @@ Este proyecto es una **tarjeta de presentación web** sencilla y elegante, hecha
 
 Podés ver el sitio en funcionamiento en el siguiente enlace:
 
-👉 [Ver La Cabra & Sazón en GitHub Pages](https://facuuurz.github.io/Tarjeta-de-Presentacion/)
+👉 [Ver Tarjeta de Presentacion en GitHub Pages](https://facuuurz.github.io/Tarjeta-de-Presentacion/)
 
 ## ✍️ Autor
 
